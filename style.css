@@ -49,6 +49,9 @@ div > a {
   font-size: 19px;
   font-weight: bold;
 }
+a:hover {
+  scale: 1.1;
+}
 .sidebar > div > h1 {
   color: white;
   align-self: center;
